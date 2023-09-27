@@ -4,7 +4,7 @@
 ### Things I code with
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Octave](https://img.shields.io/badge/-Octave-000000?&logo=GNU%20Octave&logoColor=white&style=fl
+![Octave](https://img.shields.io/badge/-Octave-000000?&logo=GNU%20Octave&logoColor=white&style=flat)
 ![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?&logo=Flutter&logoColor=white)
