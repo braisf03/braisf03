@@ -4,6 +4,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)
 [![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://www.r-project.org/)
+[![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 <!--
 **braisf03/braisf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
