@@ -1,21 +1,17 @@
 ### Hi there 👋
 
 
-[![UML](https://img.shields.io/badge/-UML-00599C?style=for-the-badge&logo=uml&logoColor=white)](https://www.uml.org/)
-[![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://www.r-project.org/)
-[![Octave](https://img.shields.io/badge/-Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)](https://www.gnu.org/software/octave/)
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
 ### Things I code with
-
-![UML](https://img.shields.io/badge/-UML-000?&logo=UML)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Octave](https://img.shields.io/badge/-Octave-0790C0?&logo=GNU%20Octave&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?&logo=Dart&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![UML](https://img.shields.io/badge/-UML-000?&logo=UML)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=OCaml)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
