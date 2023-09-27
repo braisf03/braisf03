@@ -2,6 +2,7 @@
 [![OCaml](https://img.shields.io/badge/OCaml-FF5733?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![UML](https://img.shields.io/badge/-UML-00599C?style=for-the-badge&logo=uml&logoColor=white)](https://www.uml.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)
 [![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://www.r-project.org/)
 [![Octave](https://img.shields.io/badge/-Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)](https://www.gnu.org/software/octave/)
