@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![OCaml](https://img.shields.io/badge/OCaml-4.12.0-orange?style=flat&logo=ocaml)](https://ocaml.org/)
+[![OCaml](https://img.shields.io/badge/OCaml-FFA500?style=flat&logo=ocaml)](https://ocaml.org/)
 
 <!--
 **braisf03/braisf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
