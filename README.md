@@ -20,9 +20,8 @@
 https://zzetao.github.io/awesome-github-profile/
 https://github.com/adamalston/adamalston/blob/master/README.md
 
-[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=braisf03)](https://github.com/braisf03)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&layout=compact&theme=dark)](https://github.com/braisf03)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03)](https://github.com/braisf03)
 
 <!--
 **braisf03/braisf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
