@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![OCaml](https://img.shields.io/badge/OCaml-FF5733?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![UML](https://img.shields.io/badge/-UML-00599C?style=for-the-badge&logo=uml&logoColor=white)](https://www.uml.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)
