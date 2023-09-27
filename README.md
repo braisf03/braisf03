@@ -4,6 +4,7 @@
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![OCaml](https://img.shields.io/badge/-OCaml-FFA500?logo=ocaml&logoColor=white&style=for-the-badge)](https://ocaml.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)](https://www.java.com/)
 <!--
 **braisf03/braisf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
