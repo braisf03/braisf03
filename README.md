@@ -19,6 +19,9 @@
 ![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=OCaml)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+https://zzetao.github.io/awesome-github-profile/
+https://github.com/adamalston/adamalston/blob/master/README.md
 <!--
 **braisf03/braisf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
