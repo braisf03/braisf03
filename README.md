@@ -11,6 +11,7 @@
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/project)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Ensamblador](https://img.shields.io/badge/-Ensamblador-000000?style=for-the-badge&logo=assembly&logoColor=white)](https://es.wikipedia.org/wiki/Lenguaje_ensamblador)
 <!--
 **braisf03/braisf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
