@@ -6,6 +6,7 @@
 [![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://www.r-project.org/)
 [![Octave](https://img.shields.io/badge/-Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)](https://www.gnu.org/software/octave/)
 [![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 <!--
 **braisf03/braisf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
