@@ -15,8 +15,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&layout=compact&theme=dark)](https://github.com/braisf03)
-![braisf03's github stats](https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=dark&hide=stars,issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&layout=compact&theme=dracula)](https://github.com/braisf03)
+![braisf03's github stats](https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=dracula&hide=stars,issues)
 
 <!--
 **braisf03/braisf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
