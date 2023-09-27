@@ -15,9 +15,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-https://zzetao.github.io/awesome-github-profile/
-https://github.com/adamalston/adamalston/blob/master/README.md
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&layout=compact&theme=dark)](https://github.com/braisf03)
 
 
