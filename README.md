@@ -8,6 +8,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?&logo=Dart&logoColor=white)
+![Ensamblador](https://img.shields.io/badge/-Ensamblador-000000?logo=Assembly&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![UML](https://img.shields.io/badge/-UML-000?&logo=UML)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
