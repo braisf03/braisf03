@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![OCaml](https://img.shields.io/badge/OCaml-FF5733?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org/)
 [![OCaml](https://img.shields.io/badge/OCaml-FFA500?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 <!--
