@@ -33,7 +33,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 <img height="183px" src="https://streak-stats.demolab.com?user=braisf03&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=braisf03&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 <!--
