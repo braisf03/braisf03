@@ -32,7 +32,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 
 <img height="183px" src="https://streak-stats.demolab.com?user=braisf03&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula&row=1&column=6&title=Stars,Followers,MultiLanguage)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 <!--
 **braisf03/braisf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
