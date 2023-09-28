@@ -1,5 +1,5 @@
-### Hi there 👋
-## 🏆 Github Profile Trophy
+## Hi there 👋
+### 🏆 Github Profile Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula&row=1&column=6)
 
