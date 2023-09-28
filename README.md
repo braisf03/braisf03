@@ -1,5 +1,5 @@
 # Hi there 👋
-I am a student of the degree of computer engineering in the university of A coruña, Spain 🇪🇸
+I am studying a degree in computer engineering in the university of A coruña, Spain 🇪🇸
 
 ### 💬 Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
