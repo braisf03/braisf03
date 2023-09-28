@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-### Languages
+### 💬 Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat)
