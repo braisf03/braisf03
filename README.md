@@ -15,15 +15,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&layout=compact&theme=dracula)](https://github.com/braisf03)
-<img src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=dracula&hide=issues" alt="braisf03" />
+<img height="205px" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /><!-- wi*quL3fcV -->
+<img height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&hide=html&layout=compact&langs_count=6&theme=dracula" />
 
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&hide=html&layout=compact&langs_count=6&theme=dracula" /></a>
-
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" style="width: 250px;" /><!-- wi*quL3fcV -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&hide=html&layout=compact&langs_count=6&theme=dracula" style="width: 250px;" />
 
 <!--
 **braisf03/braisf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
