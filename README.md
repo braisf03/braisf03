@@ -5,7 +5,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 ### 💬 Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat&color=black)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?&logo=Dart&logoColor=white)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg)
 ![UML](https://img.shields.io/badge/-UML-000?&logo=UML)
