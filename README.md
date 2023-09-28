@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&theme=onedark)
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
