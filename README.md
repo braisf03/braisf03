@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-##🏆 Github Profile Trophy
+🏆 Github Profile Trophy
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&theme=onedark&row=1&column=6)
 
 ### Languages
