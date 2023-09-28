@@ -5,6 +5,7 @@
   </a>
 </h1>
 
+<p align="center">
 I'm studying a degree in computer engineering in the university of A coruña, Spain 🇪🇸. If you want to know about the things I'm currently doing, check my repositories you're welcome to check them out.
 
 ### 💬 Languages
@@ -30,7 +31,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /> <!-- wi*quL3fcV -->
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&hide=html&layout=compact&langs_count=6&theme=dracula" />
 
-<p align="center">
+
   <img height="200px" src="https://streak-stats.demolab.com?user=braisf03&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
 </p>
 
