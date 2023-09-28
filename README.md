@@ -1,7 +1,5 @@
 ## Hi there 👋
-### 🏆 Github Profile Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula&row=1&column=6)
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -14,6 +12,13 @@
 ![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=OCaml)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+
+### 🏆 Github Profile Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula&row=1&column=6)
+
+---
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /><!-- wi*quL3fcV -->
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&hide=html&layout=compact&langs_count=6&theme=dracula" />
