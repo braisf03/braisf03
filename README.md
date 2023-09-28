@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Things I code with
+### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Octave](https://img.shields.io/badge/-Octave-000000?&logo=GNU%20Octave&logoColor=white&style=flat)
 ![R](https://img.shields.io/badge/-R-000000?&logo=R&logoColor=white&style=flat)
