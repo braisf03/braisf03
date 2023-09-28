@@ -30,7 +30,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 <img height="182px" src="https://streak-stats.demolab.com?user=braisf03&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly"/> <!-- wi*quL3fcV -->
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&hide=html&layout=compact&langs_count=6&theme=dracula" />
 
-<img height="300px" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
+<img height="280px" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
 <!--
 **braisf03/braisf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![braisf03's github stats](https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=dracula&hide=stars,issues)
