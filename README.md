@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm studying a degree in computer engineering in the university of A coruña, Spain 🇪🇸. If you want to know about the things I'm currently doing check my repositories you're welcome
+I'm studying a degree in computer engineering in the university of A coruña, Spain 🇪🇸. If you want to know about the things I'm currently doing check my repositories you're welcome to check them out.
 
 ### 💬 Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
