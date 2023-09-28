@@ -17,7 +17,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 
 ### 🏆 Github Profile Trophy
 
-
+![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula&row=1&column=6)
 
 
 ### 📊 Profile's stats
