@@ -11,7 +11,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 ![UML](https://img.shields.io/badge/-UML-000?&logo=UML)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=OCaml)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
