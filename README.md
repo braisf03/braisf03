@@ -26,11 +26,6 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&hide=html&layout=compact&langs_count=6&theme=dracula" />
 
 
-<div style="display: flex; align-items: center;">
-  <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" alt="Java Logo" />
-  <span>Java</span>
-</div>
-
 <!--
 **braisf03/braisf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![braisf03's github stats](https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=dracula&hide=stars,issues)
