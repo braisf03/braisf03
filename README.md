@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
