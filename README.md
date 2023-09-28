@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## 🏆 Github Profile Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&theme=draculak&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula&row=1&column=6)
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
