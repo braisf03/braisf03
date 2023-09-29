@@ -8,7 +8,7 @@
 I'm studying a degree in computer engineering in the university of A coruña, Spain 🇪🇸. If you want to know about the things I'm currently doing, check my repositories you're welcome to check them out.
 
 ### 💬 Languages
-<img src="https://img.shields.io/badge/-C-000?&logo=C"/>
+<img src="https://img.shields.io/badge/-C-000?&logo=C">
 <img src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat&color=black)
