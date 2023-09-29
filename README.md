@@ -13,7 +13,6 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat&color=black)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?&logo=Dart&logoColor=white&color=black)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![UML](https://img.shields.io/badge/-UML-000?&logo=UML)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=OCaml)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&color=black)
