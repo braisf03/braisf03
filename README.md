@@ -33,7 +33,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📊 Profile's stats 📊</h2>
 <br>
 <p align=center>
   <div align=center>
