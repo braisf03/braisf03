@@ -28,7 +28,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 ### 📊 Profile's stats
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /> <!-- wi*quL3fcV -->
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&hide=html&layout=compact&langs_count=6&theme=dracula" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&hide=html&layout=compact&langs_count=6&theme=dracula&langs_count=10" />
 
 
 
@@ -47,7 +47,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&theme=dracula&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&theme=dracula&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
