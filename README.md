@@ -49,8 +49,6 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
     </a>
   </div>
   <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
