@@ -29,7 +29,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /> <!-- wi*quL3fcV -->
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&theme=dracula&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&size_weight=0.5&count_weight=0.5" />
- <img align="left" width=390 src="https://streak-stats.demolab.com/?user=braisf03&theme=dracula&border=61dafb"/>
+<img align="left" height="200px" src="https://streak-stats.demolab.com/?user=braisf03&theme=dracula&border=61dafb"/>
 
 
 
