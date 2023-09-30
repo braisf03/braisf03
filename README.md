@@ -42,8 +42,6 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
   </div>
 
 
-
-
 <!--
 ### 📊 Profile's stats
 
