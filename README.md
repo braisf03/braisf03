@@ -35,7 +35,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
       <img height="190px" align="left" src="https://streak-stats.demolab.com/?user=braisf03&theme=dracula&border=61dafb" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img heigth="150px" align="right" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=dracula&border_color=61dafb" />
+      <img heigth="150px"  src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=dracula&border_color=61dafb" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
