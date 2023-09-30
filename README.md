@@ -36,10 +36,10 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img height="200px" align="left" width=390 src="https://streak-stats.demolab.com/?user=braisf03&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img height="200px" align="left" src="https://streak-stats.demolab.com/?user=braisf03&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img height="200px" align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img height="200px" align="right src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
