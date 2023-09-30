@@ -23,7 +23,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 
 ### 🏆 Github Profile Trophy
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula&row=1&column=7" />
+![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&row=1&column=7)
 
 ### ⚡ Stats ⚡
 <p align=center>
