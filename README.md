@@ -39,7 +39,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
       <img height="190px" align="left" src="https://streak-stats.demolab.com/?user=braisf03&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img heigth="170px" align="right" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img heigth="165px" align="right" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
