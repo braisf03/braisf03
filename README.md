@@ -48,9 +48,9 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 <h3 align="center">🗃️ Repositories 🗃️</h3>
 <br>
 <div width="100%" align="center">
-  <a href="https://github.com/braisf03/Algoritmos" title="Algoritmos"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=Algoritmos&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/braisf03/DS" title="Diseño Software"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=DS&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/braisf03/CP" title="Concurrencia y Paralelismo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=CP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/braisf03/Algoritmos" title="Algoritmos"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=Algoritmos&theme=dracula&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/braisf03/DS" title="Diseño Software"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=DS&theme=dracula&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/braisf03/CP" title="Concurrencia y Paralelismo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=CP&theme=dracula&border_color=61dafb&border_radius=10"></a>
 
 
 
