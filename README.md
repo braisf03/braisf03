@@ -38,6 +38,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
       <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&theme=dracula&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb" />
     </a>
   </div>
+  <br>
   <div align=center>
     <img heigth="150px"  src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=dracula&border_color=61dafb" />
     </a>
