@@ -38,15 +38,13 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=braisf03&theme=dracula&border=61dafb" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=braisf03&theme=dracula&border=61dafb"/>
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=dracula&border_color=61dafb" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&theme=dracula&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
