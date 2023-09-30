@@ -23,13 +23,13 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&color=black"" />
 
 <p align=center>
-🏆 Github Profile Trophy 🏆
----
+ 🏆 Github Profile Trophy 🏆
+
 <img  align="center" src="https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula&row=1&column=7" />
 
 <p align=center>
 ⚡ Stats ⚡
-  ---
+ 
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
