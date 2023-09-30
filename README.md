@@ -11,15 +11,15 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 💬 Languages 💬
   
 <p align=center>
-  <img src=https://img.shields.io/badge/-C-000?&logo=C"/>
-  <img src=https://img.shields.io/badge/-Python-000?&logo=Python"/>
-  <img src=https://img.shields.io/badge/-MatLab-02569B?logo=Octave&logoColor=white&style=flat&color=black"/>
-  <img src=https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat&color=black"/>
-  <img src=https://img.shields.io/badge/-Dart-0175C2?&logo=Dart&logoColor=white&color=black"/>
-  <img src=https://img.shields.io/badge/-Java-000?&logo=CoffeeScript&logoColor=007396"/>
-  <img src=https://img.shields.io/badge/-SQL-000?&logo=MySQL"/>
-  <img src=https://img.shields.io/badge/-OCaml-000?&logo=OCaml"/>
-  <img src=https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&color=black"/>
+  <img src="https://img.shields.io/badge/-C-000?&logo=C"/>
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
+  <img src="https://img.shields.io/badge/-MatLab-02569B?logo=Octave&logoColor=white&style=flat&color=black"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat&color=black"/>
+  <img src="https://img.shields.io/badge/-Dart-0175C2?&logo=Dart&logoColor=white&color=black"/>
+  <img src="https://img.shields.io/badge/-Java-000?&logo=CoffeeScript&logoColor=007396"/>
+  <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL"/>
+  <img src="https://img.shields.io/badge/-OCaml-000?&logo=OCaml"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&color=black"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&color=black"" />
 
 
