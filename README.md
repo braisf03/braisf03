@@ -25,10 +25,7 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 ![trophy](https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula&row=1&column=7)
 
 
-### 📊 Profile's stats
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /> <!-- wi*quL3fcV -->
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&theme=dracula&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&size_weight=0.5&count_weight=0.5" /> <img height="200px" src="https://streak-stats.demolab.com/?user=braisf03&theme=dracula&border=61dafb"/>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -54,7 +51,10 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
 
 
 <!--
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&hide=html&layout=compact&langs_count=10&theme=dracula" />
+### 📊 Profile's stats
+
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /> 
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&theme=dracula&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&size_weight=0.5&count_weight=0.5" /> <img height="200px" src="https://streak-stats.demolab.com/?user=braisf03&theme=dracula&border=61dafb"/>
 
 **braisf03/braisf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![braisf03's github stats](https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=dracula&hide=stars,issues)
