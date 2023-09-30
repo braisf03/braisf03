@@ -7,7 +7,7 @@
 <p align=center>
 I'm studying a degree in computer engineering in the university of A coruña, Spain 🇪🇸. If you want to know about the things I'm currently doing, check my repositories, you're welcome to check them out.
 
-<p align="center">💬 Languages 💬
+<h3 align="center">💬 Languages 💬</h3>
 
   
 <p align=center>
@@ -22,12 +22,12 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&color=black"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&color=black"" />
 
-<p align="center">🏆 Github Profile Trophy 🏆
+<h3 align="center">🏆 Github Profile Trophy 🏆</h3>
 
 <p align=center>
 <img  align="center" src="https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula&row=1&column=7&border=61dafb" />
 
-<p align="center">⚡ Stats ⚡
+<h3 align="center">⚡ Stats ⚡</h3>
  
 <p align=center>
   <div align=center>
