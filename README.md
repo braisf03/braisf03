@@ -23,11 +23,14 @@ I'm studying a degree in computer engineering in the university of A coruña, Sp
   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&color=black"" />
 
 <p align=center><h3>🏆 Github Profile Trophy 🏆</h3></a>
- 
+
+ ---
 
 <img  align="center" src="https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula&row=1&column=7" />
 
 <p align="center"><h3>⚡ Stats ⚡</h3></a>
+
+---
  
 <p align=center>
   <div align=center>
