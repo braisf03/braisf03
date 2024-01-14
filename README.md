@@ -1,61 +1,51 @@
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Brais+:);Nice+to+meet+you!&size=30&color=F762EA">
-  </a>
+<div align="center">
+
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Brais+:);Nice+to+meet+you!&size=30&color=F762EA&center=true&vCenter=true">
 </h1>
 
-<p align=center>I'm studying a degree in computer engineering at the university of A Coruña, Spain 🇪🇸. If you want to know about the things I'm currently doing, check my repositories, you're welcome to look them out.
+I'm studying a degree in computer engineering at the university of A Coruña, Spain 🇪🇸. If you want to know about the things I'm currently doing, check my repositories, you're welcome to look them out.
 
-<h3 align="center">💬 Languages 💬</h3>
-  
-<p align=center>
-  <img src="https://img.shields.io/badge/-C-000?&logo=C"/>
-  <img src="https://img.shields.io/badge/-OCaml-000?&logo=OCaml"/>
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat&color=black"/>
-  <img src="https://img.shields.io/badge/-Dart-0175C2?&logo=Dart&logoColor=white&color=black"/>
-  <img src="https://img.shields.io/badge/-MatLab-02569B?logo=Octave&logoColor=white&style=flat&color=black"/>
-  <img src="https://img.shields.io/badge/-Java-000?&logo=CoffeeScript&logoColor=007396"/>
-  <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&color=black"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&color=black"" />
+## 💬 Languages 💬
 
+![](<https://img.shields.io/badge/-C-000?&logo=C>)
+![](<https://img.shields.io/badge/-OCaml-000?&logo=OCaml>)
+![](<https://img.shields.io/badge/-Python-000?&logo=Python>)
+![](<https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat&color=black>)
+![](<https://img.shields.io/badge/-Dart-0175C2?&logo=Dart&logoColor=white&color=black>)
+![](<https://img.shields.io/badge/-MatLab-02569B?logo=Octave&logoColor=white&style=flat&color=black>)
+![](<https://img.shields.io/badge/-Java-000?&logo=CoffeeScript&logoColor=007396>)
+![](<https://img.shields.io/badge/-SQL-000?&logo=MySQL>)
+![](<https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&color=black>)
+![](<[https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&color=black](https://img.shields.io/badge/-Git-black?style=flat&logo=git&color=black)>)
 
-<h3 align="center">🏆 Github Profile Trophy 🏆</h3>
+## 🏆 Github Profile Trophy 🏆
 
-<p align=center>
-<img  align="center" src="https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula&row=1&column=7&border=61dafb" />
+![](<https://github-profile-trophy.vercel.app/?username=braisf03&theme=dracula&row=1&column=7&border=61dafb>)
 
-<h3 align="center">⚡ Stats ⚡</h3>
+## ⚡ Stats ⚡
  
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img height="190px" align="left" src="https://streak-stats.demolab.com/?user=braisf03&theme=dracula&border=61dafb" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&theme=dracula&langs_count=10&layout=compact&border_color=61dafb" />
-    </a>
-  </div>
-  <br>
-  <div align=center>
-    <img heigth="150px"  src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=dracula&border_color=61dafb" />
-    </a>
-  </div>
-
-
-<h3 align="center">🗃️ Intresting Repositories 🗃️</h3>
+<img height="190px" align="left" src="https://streak-stats.demolab.com/?user=braisf03&theme=dracula&border=61dafb" />
+<img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&theme=dracula&langs_count=10&layout=compact&border_color=61dafb" />
 <br>
-<div width="100%" align="center">
-  <a href="https://github.com/braisf03/Algoritmos" title="Algoritmos"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=Algoritmos&theme=dracula&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/braisf03/DS" title="Diseño Software"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=DS&theme=dracula&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/braisf03/CP" title="Concurrencia y Paralelismo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=CP&theme=dracula&border_color=61dafb&border_radius=10"></a>
+<br>
+<img heigth="150px"  src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=dracula&border_color=61dafb" />
 
+## 🗃️ Intresting Repositories 🗃️
 
+<a href="https://github.com/braisf03/Algoritmos" title="Algoritmos">
+  <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=Algoritmos&theme=dracula&border_color=61dafb&border_radius=10">
+</a>
+<a href="https://github.com/braisf03/DS" title="Diseño Software">
+  <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=DS&theme=dracula&border_color=61dafb&border_radius=10">
+</a>
+<a href="https://github.com/braisf03/CP" title="Concurrencia y Paralelismo">
+  <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=CP&theme=dracula&border_color=61dafb&border_radius=10">
+</a>
 
-<h4 align="center">
-  <a href="https://github.com/braisf03?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+### <a href="https://github.com/braisf03?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+
+</div>
 
 <!--
 ### 📊 Profile's stats
