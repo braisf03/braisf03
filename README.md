@@ -33,8 +33,8 @@ I'm studying a degree in computer engineering at the university of A Coruña, Sp
 
 ## 🗃️ Intresting Repositories 🗃️
 
-<a href="https://github.com/braisf03/Algoritmos" title="Algoritmos">
-  <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=Algoritmos&theme=dracula&border_color=61dafb&border_radius=10">
+<a href="https://github.com/braisf03/PP" title="Paradigmas de Programación">
+  <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=PP&theme=dracula&border_color=61dafb&border_radius=10">
 </a>
 <a href="https://github.com/braisf03/DS" title="Diseño Software">
   <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=braisf03&repo=DS&theme=dracula&border_color=61dafb&border_radius=10">
