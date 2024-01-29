@@ -26,7 +26,7 @@ I'm studying a degree in computer engineering at the university of A Coruña, Sp
 ## ⚡ Stats ⚡
  
 <img height="190px" align="left" src="https://streak-stats.demolab.com/?user=braisf03&theme=dracula&border=61dafb" />
-<img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&theme=dracula&langs_count=10&layout=compact&border_color=61dafb&hide=CMake,MakeFile" />
+<img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisf03&theme=dracula&langs_count=8&layout=compact&border_color=61dafb&hide=CMake,MakeFile,Shell" />
 <br>
 <br>
 <img heigth="150px"  src="https://github-readme-stats.vercel.app/api?username=braisf03&show_icons=true&theme=dracula&border_color=61dafb" />
